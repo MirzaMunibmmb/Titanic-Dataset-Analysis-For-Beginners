@@ -11,5 +11,5 @@ This is the simple Analysis on Titanic Dataset for beginners. Following are the 
   
 First i did the preprocessing on the Titanic dataset to make the dataset ready for the Analysis. I tried to do the same analysis by two method:
 
-Using Simple Conditional Statements.
-Using Groupby Functions.
+  1) Using Simple Conditional Statements.
+  2) Using Groupby Functions.
